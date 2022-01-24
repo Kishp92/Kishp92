@@ -9,6 +9,6 @@ Contents of this page includes all my projects along with the data set utalized.
 ## Lets Connect!
 
 
-<a href="www.linkedin.com/in/kishanpateldata"> LinkedIn</a>
+<a href="https://www.linkedin.com/in/kishanpateldata/"> LinkedIn</a>
 
 <a href="https://public.tableau.com/app/profile/kishan.patel2847#!/">Tableau Public</a>
